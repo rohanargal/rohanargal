@@ -1,4 +1,4 @@
-![logo](https://github.com/rohanargal/rohanargal/blob/main/github%20banner.jpg)
+![logo](https://github.com/rohanargal/rohanargal/blob/main/github.jpg)
 <h1 align="center">Hi 👋, I'm Rohan Argalmani</h1>
 <h3 align="center">A passionate in Data Science/Analyst from Karnataka,India</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/120550537/229579580-a0715069-b71e-4608-989c-17215e76b4a9.png">
